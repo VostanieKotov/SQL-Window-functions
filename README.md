@@ -5,9 +5,9 @@
 
 *This project is made to practice using SQL window functions on PostgreSQL*
 
-*My coclussion about window functions*
+*My observation regarding window functions*
 
-*The key benefit of using WF is that it does not output single line summaries for aggregate data. This means that when we execute a query, WF will produce all lines with an additional column for our aggregation.*
+*The key benefit of using WF is that it does not output single line summaries for aggregated data. This means that when we execute a query, WF will produce all lines with an additional column for our aggregation.*
 
 
 

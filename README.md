@@ -1,5 +1,5 @@
 # SQL-Window-functions
->Actions speak louder than words.
+>Learn to walk before you run.
 >
 ### This small project to practice SQL Window functions queries
 *This project is made to practice using SQL window functions on PostgreSQL*

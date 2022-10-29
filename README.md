@@ -10,4 +10,5 @@
 ![alt text](https://github.com/VostanieKotov/SQL-Window-functions/blob/main/salary%20table.PNG)
 
 **Small eample of code**
+
 ![alt text](https://github.com/VostanieKotov/SQL-Window-functions/blob/main/query%20example.PNG)
